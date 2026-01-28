@@ -22,4 +22,4 @@ Mahiru's OCR is a high-performance desktop application built for scanlators and 
 
 ---
 *Developed with ❤️ for the Manga community.*
-*Contact Here - [Discord](https://discord.com/jWN46cmJZK) Server.
+*Contact Here - [Discord](https://discord.gg/jWN46cmJZK) Server.
