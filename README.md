@@ -7,7 +7,6 @@ Mahiru's OCR is a high-performance desktop application built for scanlators and 
 - **Multi-Language Mastery:** Optimized prompts for Japanese (Vertical/RTL), Korean (Webtoon style), Chinese, and English.
 - **Pro-Workspace Layout:** Toggleable sidebars and dynamic grids for a focused editing experience.
 - **Smart Queue System:** Concurrent processing using multiple API keys with automatic 30s cooldown rotation and error handling.
-- **Privacy & Security:** Hardware-locked activation and encrypted daily prompt caching to minimize latency and protect logic.
 
 ## 🚀 Getting Started
 1. **Download:** Grab the latest `Mahiru's OCR Setup 1.0.0.exe` from the [Releases](https://github.com/VAlBHAV-AGARWAL/Mahiru-OCR/releases) page.
